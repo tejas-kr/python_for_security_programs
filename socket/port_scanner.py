@@ -21,7 +21,7 @@ class Scanner:
         return result == 0
     
     def __repr__(self):
-        return f"Scanner: {self.ip}"
+        return f"Scanner: {self.ip_add}"
     
 
 def main():
